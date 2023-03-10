@@ -1,0 +1,4 @@
+'index.html' is for the kitten webpage part
+
+'index2.html' and 'test.js' is for the button webpage.
+	*The button webpage mostly functions, but still has an error on buttons 2 and 3*
